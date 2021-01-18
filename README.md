@@ -1,2 +1,2 @@
 # chat
-Ns Sidd Personal Chat Romm
+Ns Sidd Personal Chat Room
